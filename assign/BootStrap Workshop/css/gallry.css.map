@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../sass/gallry.scss"
-    ],
-    "names": [],
-    "file": "gallry.css"
-}
